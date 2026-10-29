@@ -1,0 +1,6 @@
+{
+  "name": "Técnico SMD Móvil - Academia y Simulador",
+  "description": "Plataforma interactiva y gamificada para el estudio y memorización de componentes SMD en mantenimiento y reparación de celulares basada en el Módulo 1 y Guía Maestra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
